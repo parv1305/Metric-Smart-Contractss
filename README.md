@@ -1,4 +1,4 @@
-# Cool AMM
+# Cool Amm
 
 A smart contract implementation of an Automated Market Maker (AMM) with step liquidity model.
 
