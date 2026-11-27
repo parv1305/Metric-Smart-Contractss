@@ -5,7 +5,7 @@ A smart contract implementation of an Automated Market Maker (AMM) with step liq
 ## Requirements
 
 - Node.js 22.0.0 or higher
-- Forge
+
 
 ## Installation & Compilation
 
